@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">t2one</string>
+    <string name="hello_world">Bonjour le Monde!</string>
+    <string name="strsdk">version actuelle du SDK</string>
+</resources>
